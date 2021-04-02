@@ -2,7 +2,7 @@
 
 ## PyBank Instructions
 
-*Create a Python script that analyzes the records to calculate the following:
+Create a Python script that analyzes the records to calculate the following:
 
 
 	*The total number of months included in the dataset
@@ -22,9 +22,9 @@
 
 	* Print the analysis to the terminal and export a text file with results	
 	
-## PyPoll
+## PyPoll Instructions
 
-*Create a Python script that analyzes the votes and calculates the following:
+Create a Python script that analyzes the votes and calculates the following:
 
 	*The total number of votes cast
 

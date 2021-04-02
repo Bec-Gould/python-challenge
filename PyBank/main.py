@@ -70,7 +70,7 @@ with open(csvpath) as csv_file:
     print("Greatest Decrease in Profits: {} (${}) ".format(Lowest_Date, Lowest_Value)) 
  
     #Write text file
-    PyBank_Analysis = os.path.join(dirname,"PyBank_Analysis.txt")
+    PyBank_Analysis = os.path.join(dirname,"Analysis","PyBank_Analysis.txt")
     with open(PyBank_Analysis,'w') as txtfile:
         txtfile.write("Financial Analysis\n")
         txtfile.write("---------------------\n")

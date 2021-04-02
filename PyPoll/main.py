@@ -76,7 +76,7 @@ with open(csvpath) as csv_file:
     print("---------------------")
  
     #Write text file
-    PyPoll_Analysis = os.path.join(dirname,"PyPoll_Analysis.txt")
+    PyPoll_Analysis = os.path.join(dirname,"Analysis","PyPoll_Analysis.txt")
     with open(PyPoll_Analysis,'w') as txtfile:
         txtfile.write("Election Results\n")
         txtfile.write("---------------------\n")
